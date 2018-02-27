@@ -4,6 +4,19 @@
     <title>Los Angeles Tourist Attractions</title>
   </head>
   <body>
-  <h1>Los Angeles</h1>
-  <h2>Tourist Attractions</h2>
- </html>
+    <h1>Los Angeles</h1>
+    <hr>
+    <h2>Tourist Attractions</h2>
+    <ul>
+    <li>Disneyland: <a href="https://disneyland.disney.go.com/">Learn More</a></li>
+      <br>
+      <li>Griffith Observatory: <a href="http://griffithobservatory.org/">Learn More</a></li>
+      <br>
+      <li>Hollywood Sign: <a href="https://hollywoodsign.org/">Learn More</a></li>
+      <br>
+      <li>Santa Monica Pier: <a href="https://www.santamonica.com/things-to-do/visiting-santa-monica-pier/">Learn More</a></li>
+      <br>
+      <li>Staples Center: <a href="https://www.staplescenter.com/">Learn More</a></li> 
+      <br>
+      <li>Los Angeles Zoo: <a href="http://www.lazoo.org/">Learn More</a></li>
+    </ul>  
